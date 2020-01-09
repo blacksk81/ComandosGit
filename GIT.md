@@ -31,6 +31,13 @@ Hacemos el primer commit
 ```ssh
 	git commit -m "Texto que identifique por que se hizo el commit"
 ```
+
+Ver los commit en stagin
+```ssh
+	git log
+```
+
+
 subimos al repositorio
 ```ssh
 	git push origin master
