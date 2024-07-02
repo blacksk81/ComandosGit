@@ -38,7 +38,7 @@ Ver los commit en stagin
 ```
 
 
-subimos al repositorio
+subimos al repositorio remoto
 ```ssh
 	git push origin master
 ```
